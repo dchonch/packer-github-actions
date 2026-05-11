@@ -1,4 +1,4 @@
-FROM hashicorp/packer:1.15.2
+FROM hashicorp/packer:1.15.3
 
 LABEL "com.github.actions.name" = "packer-inspect"
 LABEL "com.github.actions.description" = "Inspect packer template file in a directory"
