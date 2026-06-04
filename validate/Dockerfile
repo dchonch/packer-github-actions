@@ -1,4 +1,4 @@
-FROM hashicorp/packer:1.15.3
+FROM hashicorp/packer:1.15.4
 
 LABEL "com.github.actions.name" = "packer-validate"
 LABEL "com.github.actions.description" = "Validate packer template file in a directory"
